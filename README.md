@@ -1,6 +1,4 @@
 # SAP KI-Berechtigungsbot - Prototyp 
-Klickbarer Prototyp für KI-gestützten SAP-Berechtigungsprozess EJOT SE &amp; Co. KG
-# KI-Berechtigungsbot – Prototyp
 
 ## Überblick
 
